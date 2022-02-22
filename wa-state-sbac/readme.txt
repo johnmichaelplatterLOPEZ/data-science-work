@@ -6,4 +6,6 @@ data_exploration v2.ipynb performs the visualization, cluster analysis, and vari
 
 hypothesis_testing.ipynb shows the main statistical analysis of my capstone project, including chi^2 and Fisher's Exact Post Hoc tests.
 
+Capstone Research Report.pdf is my report written for an academic audience detailing this investigation.
+
 All data used in project available from https://www.k12.wa.us/data-reporting/data-portal

@@ -7,12 +7,14 @@ My goal is to create analyses that are transparent, reproducable and clear. This
 
 The following skills are showcased in this portfolio:
 
-Data cleaning                     (see: wa-state-sbac, tweet-analysis)
-Merging multiple data sources     (see: wa-state-sbac, tweet-analysis)
-Visualization                     (see: PISA-data, wa-state-sbac, car-comparison)
-Communicating findings            (see: wa-state-sbac, PISA-data)
-Web scraping                      (see: car-comparison, tweet-analysis)
-Regular expressions fluency       (see: tweet-analysis)
+| SKILL                           | VIEW THESE PROJECTS
+|---------------------------------|------------------------------------|
+|Data cleaning                    |(see: wa-state-sbac, tweet-analysis)|
+|Merging multiple data sources    |(see: wa-state-sbac, tweet-analysis)|
+|Visualization                    |(see: PISA-data, wa-state-sbac, car-comparison)|
+|Communicating findings           |(see: wa-state-sbac, PISA-data)|
+|Web scraping                     |(see: car-comparison, tweet-analysis)|
+|Regular expressions fluency      |(see: tweet-analysis)|
 
 While these projects work mainly in Python, I am also recognized as a SAS Certified Statistical Business Analyst Using SAS 9: Regression and Modeling (see ...certificate.pdf). 
 Furthermore, I have experience in R too, so please don't hesitate to reach out if you would like to see code samples in R.

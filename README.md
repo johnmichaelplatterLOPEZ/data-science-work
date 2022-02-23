@@ -3,7 +3,7 @@ This is a collection of my data wrangling, cleaning, analysis and visualization 
 
 Each folder above has a readme that explains the overview of the project and what each file contributes.
 
-My goal is to create analyses that are transparent, reproducable and clear. This is why I am mainly showcasing jupyter notebook files, as this format allows me to perform reproducible analysis and describe what I am doing with a logical flow.
+My goal is to create analyses that are transparent, reproducible and clear. This is why I am mainly showcasing jupyter notebook files, as this format allows me to perform reproducible analysis and describe what I am doing with a logical flow.
 
 The following skills are showcased in this portfolio:
 

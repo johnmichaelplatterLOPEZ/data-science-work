@@ -1,5 +1,5 @@
 # data-science-work
-This is collection my data wrangling, cleaning, analysis and visualization projects. 
+This is a collection of my data wrangling, cleaning, analysis and visualization projects. 
 
 Each folder above has a readme that explains the overview of the project and what each file contributes.
 
@@ -7,7 +7,7 @@ My goal is to create analyses that are transparent, reproducable and clear. This
 
 The following skills are showcased in this portfolio:
 
-| SKILL                           | VIEW THESE PROJECTS
+| SKILL                           | VIEW THESE PROJECTS                |
 |---------------------------------|------------------------------------|
 |Data cleaning                    | wa-state-sbac, tweet-analysis)     |
 |Merging multiple data sources    | wa-state-sbac, tweet-analysis)     |

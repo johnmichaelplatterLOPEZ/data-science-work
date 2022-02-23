@@ -9,12 +9,12 @@ The following skills are showcased in this portfolio:
 
 | SKILL                           | VIEW THESE PROJECTS                     |
 |---------------------------------|------------------------------------     |
-|Data cleaning                    | wa-state-sbac, tweet-analysis           |
-|Merging multiple data sources    | wa-state-sbac, tweet-analysis           |
-|Visualization                    | PISA-data, wa-state-sbac, car-comparison|
-|Communicating findings           | wa-state-sbac, PISA-data                |
-|Web scraping                     | car-comparison, tweet-analysis          |
-|Regular expressions fluency      | tweet-analysis                          | 
+|Data cleaning                    | **wa-state-sbac**, **tweet-analysis**           |
+|Merging multiple data sources    | **wa-state-sbac**, **tweet-analysis**           |
+|Visualization                    | **PISA-data**, **wa-state-sbac**, **car-comparison**|
+|Communicating findings           | **wa-state-sbac**, **PISA-data**                |
+|Web scraping                     | **car-comparison**, **tweet-analysis**          |
+|Regular expressions fluency      | **tweet-analysis**                          | 
 
-While these projects work mainly in Python, I am also recognized as a SAS Certified Statistical Business Analyst Using SAS 9: Regression and Modeling (see: certifications). 
+While these projects work mainly in Python, I am also recognized as a SAS Certified Statistical Business Analyst Using SAS 9: Regression and Modeling (see: **certifications**). 
 Furthermore, I have experience in R too, so please don't hesitate to reach out if you would like to see code samples in R.

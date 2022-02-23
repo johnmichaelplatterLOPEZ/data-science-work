@@ -16,5 +16,5 @@ The following skills are showcased in this portfolio:
 |Web scraping                     | car-comparison, tweet-analysis          |
 |Regular expressions fluency      | tweet-analysis                          | 
 
-While these projects work mainly in Python, I am also recognized as a SAS Certified Statistical Business Analyst Using SAS 9: Regression and Modeling (see ...certificate.pdf). 
+While these projects work mainly in Python, I am also recognized as a SAS Certified Statistical Business Analyst Using SAS 9: Regression and Modeling (see: certifications). 
 Furthermore, I have experience in R too, so please don't hesitate to reach out if you would like to see code samples in R.

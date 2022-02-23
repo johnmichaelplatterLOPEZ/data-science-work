@@ -6,6 +6,6 @@ I begin by programmatically accessing Kelley Blue Book and Cars.com with the `re
 
 **`ADE2.ipynb`** shows all python code used to access, scrape, clean and visualize the car data.
 
-**`scraped.xls`** and **`cleaned.xls`** contain the data used for the analysis and visualization (accessed 8/27/2020).
+**`scraped.xls`** and **`cleaned.xls`** contain the data compiled from my web scraper and used for the analysis and visualization (accessed 8/27/2020).
 
 **`Data Visualizations.pdf`** compiles the set of figures created to help justify my choice of car.
